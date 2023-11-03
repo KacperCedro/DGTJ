@@ -23,4 +23,4 @@ If you press "reset" button it will generate new board. That's time for som game
 
 For addition there's mechanism that provides highlighting everyone winning field.
 
-![hightlight](https://github.com/KacperCedro/DGTJ/blob/main/TicTacToeJs/CeckingExample.png?raw=true)
+![hightlight](https://github.com/KacperCedro/DGTJ/blob/main/TicTacToeJs/CheckingExample.png?raw=true)
