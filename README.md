@@ -17,7 +17,7 @@ Next there is field "players", so you should add players signs (there is no matt
 
 ![firstExample](https://github.com/KacperCedro/DGTJ/blob/main/TicTacToeJs/firstExample.png?raw=true)
 
-If you press "reset" button it will generate new board. That's time for som gameplay! Feel fre to test how it works.
+If you press "reset" button it will generate new board. That's time for some gameplay! Feel free to testit out.
 
 ![secondExample](https://github.com/KacperCedro/DGTJ/blob/main/TicTacToeJs/secondExample.png?raw=true)
 
