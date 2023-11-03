@@ -10,4 +10,4 @@ The main idea for this was to create dynamicly-generated tic tac toe game. Dynam
 
 First you see the page - it could be confusing
 
-![alt text](https://github.com/KacperCedro/DGTJ/blob/main/.jpg?raw=true)
+![PageLook](https://github.com/KacperCedro/DGTJ/blob/main/TicTacToeJs/mainPageLook.png?raw=true)
